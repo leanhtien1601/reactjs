@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu .logo{
+   max-width: 250px;
+    max-height: 180px;
+}
+.menu{
+    text-align: center;
+    height: auto;
+}
+.menu .icon_menu i{
+    padding-left: 20px;
+    color: black;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.menu .icon_menu i:hover{
+    color: red;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.menu ul li a:hover{
+    color: green;
+}

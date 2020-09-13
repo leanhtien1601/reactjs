@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "name": "Áo sơ mi ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2Fson-tung-mtp-dung-hang-mino-winner-03-15619897505461039434081.jpg?alt=media&token=72009663-3769-41ff-a6b7-735eac0f55f4",
+      "price": "470000",
+      "priceSale": "410000",
+      "status": "Còn hàng",
+      "id_cate": "xa257dblw",
+      "desc": "",
+      "id": "p4vv12myi",
+      "textAra": "Nắng nóng gay gắt"
+    },
+    {
+      "name": "Áo lông cừu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2FSon-Tung-dung-hang-Justin-Bieber-JHope-BTS-DepOnline-03.jpg?alt=media&token=a530d064-890b-45e3-b2da-cb227ae5ffb5",
+      "price": "7900000",
+      "priceSale": "490000",
+      "status": "Còn hàng",
+      "id_cate": "cquwudp99",
+      "desc": "<p><em><strong>&nbsp;&Aacute;o</strong> mại c&oacute; khả năng giữ nhiệt tốt, sản phẩm l&agrave; sự lựa chọn kh&ocirc;ng thể ho&agrave;n hảo hơn cho chị em trong những ng&agrave;y lạnh.</em></p>",
+      "id": "t9xyye6f2",
+      "textAra": "Hàng cao cấp"
+    },
+    {
+      "name": "Áo Slaurent",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2FSon-Tung-Mtp-2.jpg?alt=media&token=8a30f191-72bd-41ba-aa58-5dff9e76befe",
+      "price": "650000",
+      "priceSale": "600000",
+      "status": "Còn hàng",
+      "id_cate": "cquwudp99",
+      "desc": "<p>SƠ MI LỤA C&Acirc;Y DỪA SƠN T&Ugrave;NG MV H&Atilde;Y TRAO CHO ANH<br />Chất sơ mi mềm mịn, cực xịn<br />Full size&nbsp; M L XL<br />Form #unisex chuẩn cho cả nam v&agrave; nữ. Mặc COUPLE cực toẹt<br />H&agrave;ng gia c&ocirc;ng trực tiếp kh&ocirc;ng qua trung gian-đi đầu về mẫu m&atilde; v&agrave; chất lượng️<br /><br /><em>Size M: Dưới 55kg</em><br /><em>Size L: 56 - 70kg</em><br /><em>Size XL: Tr&ecirc;n 71kg</em></p>",
+      "id": "1agua6msa"
+    },
+    {
+      "id": "el43a818v",
+      "name": "ao tre new",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2Fchang-trai-nam-ay-son-tung-mtp-cuc-yeu-khi-dien-ao-in-hinh-chinh-minh.jpg?alt=media&token=842bca0a-9e70-42db-856a-cd6cf893cac4",
+      "price": "456",
+      "priceSale": "345",
+      "status": "Còn hàng",
+      "id_cate": "i7syftcy8",
+      "textAra": "cxvcvxcv",
+      "desc": "<p><em>hang&nbsp; moi</em></p>"
+    }
+  ],
+  "category": [
+    {
+      "nameCate": "Mùa hè ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2F10_fkkz.jpg?alt=media&token=5ca33b49-c00d-47fa-bdf9-6335661a49d1",
+      "textAra": "Mùa hè đang nóng bức",
+      "id": "xa257dblw"
+    },
+    {
+      "id": "cquwudp99",
+      "nameCate": "Mùa đông",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2Fdb777-songthu.jpg?alt=media&token=11303c2f-4af8-4383-b662-5aab9f374329",
+      "textAra": "Mùa đông sắp về nhu cầu tăng cao"
+    },
+    {
+      "id": "i7syftcy8",
+      "nameCate": "QUan ao",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-98344.appspot.com/o/images%2Fchang-trai-nam-ay-son-tung-mtp-cuc-yeu-khi-dien-ao-in-hinh-chinh-minh.jpg?alt=media&token=50b4006f-94cb-4dd6-b3f7-90456bc05a9e",
+      "textAra": "cvxcvxcv"
+    }
+  ],
+  "posts": [
+    {
+      "id": "dasq7evhx",
+      "namePost": "Tin ngắn về OPPO ",
+      "content": "Reno4 Series và OPPO Watch vượt kỳ vọng",
+      "date": "2020-08-10",
+      "textAra": "Đây là thế hệ Reno thành công nhất từ trước đến nay khi liên tục \"phả hơi nóng\" vào hai phân khúc 7-10 triệu đồng và 10-15 triệu đồng. Riêng với OPPO Watch, màn chào sân đầu tiên đã nhận được những dấu tín hiệu tích cực từ người dùng với hơn 800 đơn đặt cọc trên toàn quốc.\n\nVượt xa mọi dự đoán, chỉ sau vỏn vẹn 6 ngày ra mắt, lượng đơn đặt hàng Reno4 & Reno4 Pro liên tục gây sốc. Ngay trong ngày đầu trải nghiệm, dù chưa biết giá, Reno4 đã ghi dấu ấn với 2,5 ngàn đơn hàng có cọc. Chỉ 5 ngày sau đó, số đơn cọc đã cán mốc 15.000 , trước khi kết thúc vào ngày 7-8 với tổng cộng 23.000 đơn.\n\nTính trung bình, mỗi ngày có hơn 3 ngàn người dùng quyết xuống tiền để sở hữu smartphone mới ra mắt của OPPO. Thành công này thực sự gây bất ngờ và rất đáng ghi nhận, nhất là trong bối cảnh kinh tế khó khăn cùng sự biến động phức tạp của thị trường."
+    },
+    {
+      "id": "nzc201ccw",
+      "namePost": "Tin tiktok trong ngày",
+      "content": "Tỉ phú Bill Gates gọi vụ mua lại TikTok",
+      "date": "2020-08-10",
+      "textAra": "Phát biểu trong bài phỏng vấn trên tờ Wired, tỉ phú Mỹ cảnh báo việc trở thành ông lớn trong thị trường mạng xã hội không phải là chuyện đơn giản.\n\nKhi được hỏi có dè chừng không khi Microsoft tiến vào thị trường mạng xã hội, ông Gates nói để Facebook có thêm đối thủ sẽ là điều tốt, \"và việc ông Trump loại đối thủ duy nhất của họ thì thật kỳ cục\".\n\nBill Gates hiện là cố vấn công nghệ cho Microsoft. Theo ông, việc tổng thống Mỹ yêu cầu ứng dụng TikTok của Trung Quốc phải bán cho một công ty Mỹ là lạ lùng, đặc biệt là việc đòi công ty mua lại ứng dụng này trả \"một khoản lớn\" lại quả cho Bộ Tài chính Mỹ nếu chốt được thương vụ đó."
+    },
+    {
+      "id": "z8ci40ip7",
+      "namePost": "Bản tin công nghệ",
+      "content": "Nhiều hãng công nghệ, tài chính tìm giải pháp",
+      "date": "2020-08-10",
+      "textAra": "Theo báo Wall Street Journal (WSJ), nhiều hãng công nghệ và đầu tư đang tìm kiếm những thỏa thuận khả thi về mảng hoạt động kinh doanh của TikTok tại Mỹ sau sắc lệnh hành pháp công bố tuần trước của ông Trump.\n\nTuy nhiên dù thế nào họ cũng sẽ phải vượt qua những trở ngại ít nhất cũng lớn như ông trùm phần mềm Microsoft đang phải đối mặt khi muốn mua lại mảng kinh doanh tại Mỹ của TikTok.\n\nCông ty Twitter đã có những đàm phán bước đầu về một thỏa thuận tiềm năng về sự kết hợp với TikTok ở Mỹ, báo WSJ đưa tin ngày thứ bảy vừa rồi (8-8).\n\nHiện chưa rõ Twitter có theo đuổi thỏa thuận này không vì tờ WSJ cho rằng, căn cứ vào quy mô của Twitter, mạng xã hội này sẽ đối mặt với những thách thức."
+    }
+  ]
+}
